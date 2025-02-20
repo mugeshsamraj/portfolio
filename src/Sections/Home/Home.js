@@ -10,7 +10,7 @@ function Home() {
             Hello, I'm <br /> <span class="hero-name">Mugesh Samraj</span>
           </h1>
           <div class="home-hero__info">
-            <p class="text-primary">A focused Frontend Web Developer.</p>
+            <p class="text-primary">Frontend Engineer | React & React Native Specialist.</p>
           </div>
         </div>
         <div class="home-hero__socials">

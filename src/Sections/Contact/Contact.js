@@ -14,7 +14,7 @@ function Contact() {
           </span>
         </h2>
         <div class="contact__form-container">
-          <form action="https://formsubmit.co/mugeshsamraj1996@gmail.com" method="POST" class='contact__form'><input type='hidden' name='form-name' value='form 1' />
+          <form action="https://formsubmit.co/mugeshsamraj@gmail.com" method="POST" class='contact__form'><input type='hidden' name='form-name' value='form 1' />
             <div class="form-container">
             <input type="hidden" name="_template" value="table"/>
               <div class="contact__form-field">

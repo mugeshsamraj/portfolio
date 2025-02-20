@@ -9,8 +9,7 @@ function About() {
         <h2 class="heading heading-sec heading-sec__mb-med">
           <span class="heading-sec__main">About Me</span> 
           <span class="heading-sec__sub">
-            I like to code things for web, and enjoy bringing ideas to life in the browser. 
-            I'm always open to adapt to work with team and frontend skills and technology.
+          I love building things for the web and enjoy transforming ideas into interactive experiences. With a strong passion for frontend development, I thrive in collaborative environments and am always eager to learn and adapt to new technologies.
           </span>
         </h2>
         <div class="about__content">
@@ -18,16 +17,15 @@ function About() {
             <h3 class="about__content-title">Who's this guy?</h3>
             <div class="about__content-details">
               <p class="about__content-details-para">
-                I'm a <strong>Frontend Web Developer</strong> with Passionated 
-                about sketching, photography, travelling and riding. Learned Web Development skill from Skill Safari Alchemyst Program.
+                I'm a <strong>Software Developer</strong> skilled in developing dynamic web applications using React.js, Redux, and TypeScript. I specialize in integrating modern UI frameworks like Bootstrap, Tailwind CSS, and Material-UI to create seamless and engaging user experiences.
               </p>
               <p class="about__content-details-para">
-                I'm very curious about to learn new technical things. As per my knowledge I have made some projects.
-                You can visit, Routes, Route
-                I'm open to <strong>Job</strong> opportunities where I can
+              With 2.5 years of experience, I've worked on projects across e-commerce, SaaS platforms, and dashboard applications, focusing on
+                {/* I'm open to <strong>Job</strong> opportunities where I can
                 contribute, learn and grow. If you have a good opportunity that
                 matches my skills and experience then don't hesitate to
-                <strong>contact</strong> me.
+                <strong>contact</strong> me. */}
+                Building responsive UIs with React, Next.js, and SCSS.Optimizing performance by implementing efficient SSR techniques.Securing authentication through OAuth-based login systems.Enhancing state management with Redux for seamless data flow.Collaborating with teams to deliver high-quality and scalable web solutions.
               </p>
             </div>
               <a href="./#contact" class="btn btn--med btn--theme">Contact</a>
@@ -40,10 +38,14 @@ function About() {
           <h3 class="about__content-title">My Skills</h3>
           <ul class="topic-list">
             <li> <span><img class="skill-img" src="https://rakshithkotian-portfolio.netlify.app/images/logos/html-5.png" alt="html"/></span>HTML5</li>
-            <li><span><img class="skill-img" src="https://rakshithkotian-portfolio.netlify.app/images/logos/css-3.png" alt="html"/></span>CSS3</li>
-            <li><span><img class="skill-img" src="https://rakshithkotian-portfolio.netlify.app/images/logos/js.png" alt="html"/></span>JavaScript</li>
-            <li><span><img class="skill-img" src="https://rakshithkotian-portfolio.netlify.app/images/logos/bootstrap.png" alt="html"/></span>Bootstrap</li>
-            <li><span><img class="skill-img" src="https://rakshithkotian-portfolio.netlify.app/images/logos/react.png" alt="html"/></span>React</li>
+            <li><span><img class="skill-img" src="https://rakshithkotian-portfolio.netlify.app/images/logos/css-3.png" alt="css3"/></span>CSS3</li>
+            <li><span><img class="skill-img" src="https://rakshithkotian-portfolio.netlify.app/images/logos/js.png" alt="javascript"/></span>JavaScript</li>
+            <li><span><img class="skill-img" src="https://rakshithkotian-portfolio.netlify.app/images/logos/bootstrap.png" alt="bootstrap"/></span>Bootstrap</li>
+            <li><span><img class="skill-img" src="https://rakshithkotian-portfolio.netlify.app/images/logos/react.png" alt="react"/></span>React</li>
+            <li><span><img class="skill-img" src="/assets/tailwindcssimg.png" alt="tailwind"/></span>Tailwind</li>
+            <li><span><img class="skill-img" src="/assets/mui.png" alt="tailwind"/></span>Material UI</li>
+            <li><span><img class="skill-img" src="/assets/native.png" alt="tailwind"/></span>React Native</li>
+
           </ul>
         </div>
       </div>
