@@ -71,20 +71,7 @@ function Home() {
             </a>
           </div>
 
-          <div class="home-hero__social">
-            <a
-              href="https://1lib.in/"
-              class="home-hero__social-icon-link"
-              rel="noreferrer"
-              target="_blank"
-            >
-              <img
-                src="https://d33wubrfki0l68.cloudfront.net/e978c8491d93813aa00b3dc80b9abfb0d64a9086/3c187/assets/svg/book-dark.svg"
-                alt="Mugesh Blog Profile"
-                class="home-hero__social-icon"
-              />
-            </a>
-          </div>
+         
         </div>
       </section>
     </>

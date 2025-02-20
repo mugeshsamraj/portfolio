@@ -43,3 +43,14 @@
   font-size: 1.5rem;
   line-height: 1.7;
 }
+@media only screen and (max-width: 600px) {
+  .main-footer__upper {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    text-align: center;
+  }
+  .main-footer__row-1 {
+    width: 100%;
+  }
+  }
